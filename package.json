@@ -22,7 +22,7 @@
     "popper.js": "^1.15.0",
     "vue": "^2.6.10",
     "vue-hot-reload-api": "^2.3.3",
-    "lodash": ">=4.17.13"
+    "lodash": ">=4.17.19"
   },
   "devDependencies": {
     "@vue/component-compiler-utils": "^3.0.0",
